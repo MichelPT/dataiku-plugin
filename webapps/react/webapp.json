@@ -4,6 +4,7 @@
     "description": "A static Next.js application.",
     "icon": "icon-play"
   },
+  "baseType":"STANDARD",
   "backend": "NONE",
   "mainHTML": "www/index.html"
 }

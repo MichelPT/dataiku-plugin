@@ -1,0 +1,12 @@
+{
+  "id": "dataiku-webapps",
+  "version": "1.0.0",
+  "meta": {
+    "label": "webapps template",
+    "description": "A plugin containing a webapp built with Next.js.",
+    "author": "Michel Tahya",
+    "icon": "icon-rebel",
+    "tags": ["react", "nextjs", "webapp"],
+    "licenseInfo": "Apache Software License"
+  }
+}

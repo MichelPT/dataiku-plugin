@@ -1,0 +1,9 @@
+{
+  "meta" : {
+    "label": "Geologwannabe",
+    "description": "A static Next.js application.",
+    "icon": "icon-play"
+  },
+  "backend": "NONE",
+  "mainHTML": "www/index.html"
+}

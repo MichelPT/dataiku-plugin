@@ -5,6 +5,5 @@
     "icon": "icon-play"
   },
   "baseType":"STANDARD",
-  "backend": "NONE",
-  "mainHTML": "www/index.html"
+  "backend": "PYTHON"
 }
